@@ -73,3 +73,5 @@ AI-ассистент для автоматизации коммуникации
 - ERP-интеграция
 
 [- @narodnyeokna10_bot](https://t.me/narodnyeokna10_bot)
+
+https://github.com/Anastasia-Olegovna-T/AI-Assistant/blob/main/image4.png?raw=true
