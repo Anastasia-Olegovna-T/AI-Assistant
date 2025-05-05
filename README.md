@@ -74,4 +74,9 @@ AI-ассистент для автоматизации коммуникации
 
 [- @narodnyeokna10_bot](https://t.me/narodnyeokna10_bot)
 
-https://github.com/Anastasia-Olegovna-T/AI-Assistant/blob/main/image4.png?raw=true
+![Иллюстрация к проекту](https://github.com/Anastasia-Olegovna-T/AI-Assistant/blob/main/image4.png?raw=true)
+![Иллюстрация к проекту](https://github.com/Anastasia-Olegovna-T/AI-Assistant/blob/main/image2.png?raw=true)
+![Иллюстрация к проекту](https://github.com/Anastasia-Olegovna-T/AI-Assistant/blob/main/image6.png?raw=true)
+![Иллюстрация к проекту](https://github.com/Anastasia-Olegovna-T/AI-Assistant/blob/main/image8.png?raw=true)
+
+
